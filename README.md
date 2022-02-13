@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sendurangr - Senduran
 - 👀 I’m interested in Programming, Photography, Graphic Designs
-- 🌱 I’m currently learning Advanced Web Development
-- 💞️ I’m looking to collaborate on WebDev , IoT(ML)  and a bit AndroidDev
+- 🌱 Web Development, Mobile Application Developments (Flutter)
+- 💞️ Ping Me for your requirements
 - 📫 How to reach , Whatsapp me +94 767 100 496 or mail to senduran40@gmail.com
 
 <!---
