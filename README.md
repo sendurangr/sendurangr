@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendurangr&label=Profile%20views&color=0e75b6&style=flat" alt="sendurangr" /> </p>
 
-- 🔭 I’m currently working at [CodeGen International (Pvt) Ltd](https://codegen.co.uk/) as Software Engineer
+- 🔭 I’m currently working at [CodeGen International (Pvt) Ltd](https://codegen.co.uk/) as Senior Software Engineer
 
 - 📫 How to reach me **senduran40@gmail.com**
 
